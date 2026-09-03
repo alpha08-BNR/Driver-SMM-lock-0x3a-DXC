@@ -1,1 +1,0 @@
-# Driver-SMM-lock-0x3a-DXC
